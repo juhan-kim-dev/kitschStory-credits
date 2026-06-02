@@ -1,0 +1,26 @@
+# kitschStory — Image License Credits
+
+유튜브 채널 **kitschStory** 영상에 사용된 이미지의 라이선스 출처를 공개 보관하는 저장소입니다.
+각 영상 설명란에서 해당 영상의 크레딧 페이지로 링크됩니다.
+
+영상에 사용된 이미지는 모두 공개 라이선스(**CC BY · CC BY-SA · CC0 · Public Domain**) 자료입니다.
+CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·라이선스를 아래 페이지에 표기합니다.
+
+> CC BY 4.0 등은 저작자 표시를 "그 정보를 담은 URL/하이퍼링크 제공으로 충족할 수 있다"고 규정합니다.
+> 따라서 영상 설명란에는 요약 고지와 이 저장소 링크를 두고, 개별 저작자·출처는 이 곳에서 제공합니다.
+
+## 영상별 크레딧
+
+| 영상 | 크레딧 | 이미지 |
+|---|---|---|
+| 모든 인간이 똑같이 생기면 | [credits/what_if_identical.md](credits/what_if_identical.md) | 142장 (CC BY·BY-SA 126) |
+| 잠을 안 자도 되면 | (발행 시 추가 예정) | — |
+
+## 출처 플랫폼
+
+- [Wikimedia Commons](https://commons.wikimedia.org/)
+- [Openverse](https://openverse.org/) (Flickr · StockSnap · rawpixel 등 CC 자료 집계)
+
+## 문의
+
+채널 운영자가 관리합니다. 본인 저작물의 표기 수정·삭제 요청은 채널을 통해 연락 주세요.
