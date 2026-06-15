@@ -15,6 +15,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 |---|---|---|
 | 모든 인간이 똑같이 생기면 | [credits/what_if_identical.md](credits/what_if_identical.md) | 142장 (CC BY·BY-SA 126) |
 | 잠을 안 자도 되면 | [credits/what_if_no_sleep.md](credits/what_if_no_sleep.md) | 21건 (CC BY-SA 1, 나머지 Pexels·CC0·PD) |
+| 방금 그 클릭, 당신이 한 게 아닐 수도 있습니다 | [credits/free_will.md](credits/free_will.md) | 54건 (Pexels 영상 클립, 표시 의무 없음) |
 
 ## 출처 플랫폼
 
