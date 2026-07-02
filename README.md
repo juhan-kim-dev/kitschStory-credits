@@ -21,6 +21,14 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 나 혼자 남은 세상 | [credits/what_if_alone.md](credits/what_if_alone.md) | 39건 (Pexels 영상 클립, 표시 의무 없음) |
 | 죽음에 관한 30가지 사실, 팩트체크 | [credits/death_facts.md](credits/death_facts.md) | 31건 (Pexels 영상 클립, 표시 의무 없음) |
 
+## 팩트체크 근거·출처
+
+팩트체크 영상은 각 사실의 근거(출처·기관·연도·핵심 수치)를 아래 페이지에 정리합니다. 영상 속 자료카드와 같은 내용입니다.
+
+| 영상 | 근거 정리 |
+|---|---|
+| 죽음에 관한 30가지 사실, 팩트체크 | [facts/death_facts.md](facts/death_facts.md) (자료카드 15건) |
+
 ## 출처 플랫폼
 
 - [Pexels](https://www.pexels.com/) (영상 클립 · Pexels License)
