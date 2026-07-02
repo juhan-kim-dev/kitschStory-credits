@@ -19,6 +19,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 고통을 못 느끼게 되면 어떻게 될까? | [credits/what_if_no_pain.md](credits/what_if_no_pain.md) | 36건 (Pexels·CC0·PD, 표시 의무 없음) |
 | 만약 모두가 거짓말을 못 하게 되면? | [credits/what_if_no_lies.md](credits/what_if_no_lies.md) | 27건 (Pexels·CC0·PD, 표시 의무 없음) |
 | 나 혼자 남은 세상 | [credits/what_if_alone.md](credits/what_if_alone.md) | 39건 (Pexels 영상 클립, 표시 의무 없음) |
+| 죽음에 관한 30가지 사실, 팩트체크 | [credits/death_facts.md](credits/death_facts.md) | 31건 (Pexels 영상 클립, 표시 의무 없음) |
 
 ## 출처 플랫폼
 
