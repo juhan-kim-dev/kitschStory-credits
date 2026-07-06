@@ -20,6 +20,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 만약 모두가 거짓말을 못 하게 되면? | [credits/what_if_no_lies.md](credits/what_if_no_lies.md) | 27건 (Pexels·CC0·PD, 표시 의무 없음) |
 | 나 혼자 남은 세상 | [credits/what_if_alone.md](credits/what_if_alone.md) | 39건 (Pexels 영상 클립, 표시 의무 없음) |
 | 죽음에 관한 30가지 사실, 팩트체크 | [credits/death_facts.md](credits/death_facts.md) | 31건 (Pexels 영상 클립, 표시 의무 없음) |
+| 공포에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [credits/fear_facts.md](credits/fear_facts.md) | 34건 (Pexels 영상 클립, 표시 의무 없음) |
 
 ## 팩트체크 근거·출처
 
@@ -28,6 +29,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 영상 | 근거 정리 |
 |---|---|
 | 죽음에 관한 30가지 사실, 팩트체크 | [facts/death_facts.md](facts/death_facts.md) (자료카드 15건) |
+| 공포에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [facts/fear_facts.md](facts/fear_facts.md) (자료카드 30건) |
 
 ## 출처 플랫폼
 
