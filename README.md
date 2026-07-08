@@ -21,6 +21,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 나 혼자 남은 세상 | [credits/what_if_alone.md](credits/what_if_alone.md) | 39건 (Pexels 영상 클립, 표시 의무 없음) |
 | 죽음에 관한 30가지 사실, 팩트체크 | [credits/death_facts.md](credits/death_facts.md) | 31건 (Pexels 영상 클립, 표시 의무 없음) |
 | 공포에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [credits/fear_facts.md](credits/fear_facts.md) | 34건 (Pexels 영상 클립, 표시 의무 없음) |
+| 날씨에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [credits/weather_facts.md](credits/weather_facts.md) | 33건 (CC BY·BY-SA 15, 나머지 PD·CC0·Pexels) |
 
 ## 팩트체크 근거·출처
 
