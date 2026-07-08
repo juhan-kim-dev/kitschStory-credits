@@ -31,6 +31,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 |---|---|
 | 죽음에 관한 30가지 사실, 팩트체크 | [facts/death_facts.md](facts/death_facts.md) (자료카드 15건) |
 | 공포에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [facts/fear_facts.md](facts/fear_facts.md) (자료카드 30건) |
+| 날씨에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [facts/weather_facts.md](facts/weather_facts.md) (자료카드 30건) |
 
 ## 출처 플랫폼
 
