@@ -23,6 +23,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 잠에 관한 30가지 사실, 당신이 아는 절반은 틀렸다 | [credits/sleep_facts.md](credits/sleep_facts.md) | 31건 (Pexels 영상 클립, 표시 의무 없음) |
 | 공포에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [credits/fear_facts.md](credits/fear_facts.md) | 34건 (Pexels 영상 클립, 표시 의무 없음) |
 | 날씨에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [credits/weather_facts.md](credits/weather_facts.md) | 33건 (CC BY·BY-SA 15, 나머지 PD·CC0·Pexels) |
+| 당신이 아픈 걸, 옆 사람은 이미 냄새로 압니다 | [credits/smell_disease.md](credits/smell_disease.md) | 58건 (CC BY·BY-SA 4, 나머지 Pexels) |
 
 ## 팩트체크 근거·출처
 
