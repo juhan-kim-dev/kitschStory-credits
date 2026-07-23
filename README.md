@@ -25,6 +25,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 날씨에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [credits/weather_facts.md](credits/weather_facts.md) | 33건 (CC BY·BY-SA 15, 나머지 PD·CC0·Pexels) |
 | 당신이 아픈 걸, 옆 사람은 이미 냄새로 압니다 | [credits/smell_disease.md](credits/smell_disease.md) | 58건 (CC BY·BY-SA 4, 나머지 Pexels) |
 | 지구에서 가장 작은 의사, 하지만 누굴 살릴지 정하지 않습니다 | [credits/ant_triage.md](credits/ant_triage.md) | 35건 (Pexels 영상 클립, 표시 의무 없음) |
+| 우리가 아는 세상은, 생각보다 훨씬 이상합니다 | [credits/rapid_curiosity_01.md](credits/rapid_curiosity_01.md) | 29건 (표시 의무 CC BY·BY-SA 18건) |
 
 ## 팩트체크 근거·출처
 
@@ -36,6 +37,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 잠에 관한 30가지 사실, 당신이 아는 절반은 틀렸다 | [facts/sleep_facts.md](facts/sleep_facts.md) (자료카드 16건) |
 | 공포에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [facts/fear_facts.md](facts/fear_facts.md) (자료카드 30건) |
 | 날씨에 관한 사실 30가지, 당신이 아는 절반은 틀렸다 | [facts/weather_facts.md](facts/weather_facts.md) (자료카드 30건) |
+| 우리가 아는 세상은, 생각보다 훨씬 이상합니다 | [facts/rapid_curiosity_01.md](facts/rapid_curiosity_01.md) (9사건 1차 출처) |
 
 ## 출처 플랫폼
 
