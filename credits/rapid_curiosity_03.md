@@ -3,7 +3,7 @@
 - 영상 slug: `rapid_curiosity_03`
 - 출처 플랫폼: Wikimedia Commons, 기타
 - 라이선스: CC BY 4.0 / CC0 / Public Domain (NASA) / Public Domain (NASA/JPL) / Public domain / Public domain (NOAA) / Public domain (US federal) / Public domain (published before 1929)
-- 총 49건 (저작자 표시 의무 대상 CC BY·BY-SA **8건**, 표시 의무 없는 CC0·Public Domain·Pexels 41건)
+- 총 48건 (저작자 표시 의무 대상 CC BY·BY-SA **8건**, 표시 의무 없는 CC0·Public Domain·Pexels 40건)
 
 이 영상에 사용된 이미지는 모두 위 공개 라이선스 자료이며, 아래에 저작자·출처·라이선스를 표기합니다.
 CC BY/BY-SA 자료는 해당 라이선스 조건에 따른 저작자 표시입니다.
@@ -61,8 +61,7 @@ CC BY/BY-SA 자료는 해당 라이선스 조건에 따른 저작자 표시입�
 | 34 | 충돌 2초 전, 지표 폭 31m | NASA/Johns Hopkins APL | Public Domain (NASA) | [원본](https://www.nasa.gov/wp-content/uploads/2023/03/penultimate_dart_0401930049_43695_01_iof_imagedisplay-final.png) |
 | 35 | ★엔셀라두스 간헐천 역광(실사) | NASA/JPL/Space Science Institute | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia11/pia11688/PIA11688.jpg) |
 | 36 | ★마지막 다이브(상상도·원본 세로 2550x3300) | NASA/JPL-Caltech | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22768/PIA22768.jpg) |
-| 37 | 카시니 최후의 사진(실사·505px 인셋용) | NASA/JPL-Caltech/Space Science Institute | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia21/pia21895/PIA21895.jpg) |
-| 38 | 관제실 종료 선언 순간(실사) | NASA/Joel Kowsky | Public Domain (NASA) | [원본](https://images-assets.nasa.gov/image/NHQ201709150006/NHQ201709150006~orig.jpg) |
-| 39 | B고리 초근접(실사) | NASA/JPL-Caltech/Space Science Institute | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia21/pia21628/PIA21628.jpg) |
-| 40 | 토성 초상(실사) | NASA/JPL/Space Science Institute | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia06/pia06193/PIA06193.jpg) |
-| 41 | 타이탄 전구(실사) | NASA/JPL-Caltech/Univ. Arizona | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22770/PIA22770.jpg) |
+| 37 | 관제실 종료 선언 순간(실사) | NASA/Joel Kowsky | Public Domain (NASA) | [원본](https://images-assets.nasa.gov/image/NHQ201709150006/NHQ201709150006~orig.jpg) |
+| 38 | B고리 초근접(실사) | NASA/JPL-Caltech/Space Science Institute | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia21/pia21628/PIA21628.jpg) |
+| 39 | 토성 초상(실사) | NASA/JPL/Space Science Institute | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia06/pia06193/PIA06193.jpg) |
+| 40 | 타이탄 전구(실사) | NASA/JPL-Caltech/Univ. Arizona | Public Domain (NASA/JPL) | [원본](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22770/PIA22770.jpg) |
