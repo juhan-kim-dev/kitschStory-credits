@@ -26,6 +26,8 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 당신이 아픈 걸, 옆 사람은 이미 냄새로 압니다 | [credits/smell_disease.md](credits/smell_disease.md) | 58건 (CC BY·BY-SA 4, 나머지 Pexels) |
 | 지구에서 가장 작은 의사, 하지만 누굴 살릴지 정하지 않습니다 | [credits/ant_triage.md](credits/ant_triage.md) | 35건 (Pexels 영상 클립, 표시 의무 없음) |
 | 우리가 아는 세상은, 생각보다 훨씬 이상합니다 | [credits/rapid_curiosity_01.md](credits/rapid_curiosity_01.md) | 29건 (표시 의무 CC BY·BY-SA 18건) |
+| 이런 일이 실제로 있었다는 게, 아직도 잘 안 믿깁니다 | [credits/rapid_curiosity_02.md](credits/rapid_curiosity_02.md) | 27건 (표시 의무 CC BY·BY-SA 19건) |
+| 믿기 어렵겠지만, 전부 실제로 있었던 일입니다 | [credits/rapid_curiosity_03.md](credits/rapid_curiosity_03.md) | 49건 (표시 의무 CC BY 8건) |
 
 ## 팩트체크 근거·출처
 
