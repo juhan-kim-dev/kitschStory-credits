@@ -1,9 +1,9 @@
 # [세상은 생각보다 훨씬 이상하게 돌아갑니다] 이미지·영상 출처 / Credits
 
 - 영상 slug: `rapid_curiosity_04`
-- 출처 플랫폼: Wikimedia Commons, 기타
+- 출처 플랫폼: Openverse (Flickr), Wikimedia Commons, 기타
 - 라이선스: CC BY 2.0 / CC BY-SA 3.0 / CC BY-SA 4.0 / CC0 / Public domain / Public domain (NASA) / Public domain (PD-CAGov) / Public domain (PD-Sweden-photo) / Public domain (PD-US-no notice) / Public domain (PD-USGov) / Public domain (PD-USGov-NOAA) / Public domain (PD-USGov-NPS) / Public domain (US patent) / Public domain (no known restrictions) / Public domain (독일 1929년 발표 Lichtbild)
-- 총 44건 (저작자 표시 의무 대상 CC BY·BY-SA **7건**, 표시 의무 없는 CC0·Public Domain·Pexels 37건)
+- 총 46건 (저작자 표시 의무 대상 CC BY·BY-SA **9건**, 표시 의무 없는 CC0·Public Domain·Pexels 37건)
 
 이 영상에 사용된 이미지는 모두 위 공개 라이선스 자료이며, 아래에 저작자·출처·라이선스를 표기합니다.
 CC BY/BY-SA 자료는 해당 라이선스 조건에 따른 저작자 표시입니다.
@@ -12,13 +12,15 @@ CC BY/BY-SA 자료는 해당 라이선스 조건에 따른 저작자 표시입�
 
 | # | 제목 | 저작자 | 라이선스 | 원본 |
 |---|---|---|---|---|
-| 1 | 전환 전에는 떼지 말라는 경고 스티커 | Scheinwerfermann | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Dagen_H_Headlamp.jpg) |
-| 2 | 기울어진 H 알림 표지 | Wikimedia Commons contributor | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B6gertrafikm%C3%A4rke.jpg) |
-| 3 | 기름 호수에 갇힌 새(2008년 촬영) | Aljawad | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Mummified_Bird.jpg) |
-| 4 | 용암에 파묻힌 산후안 교회 | LBM1948 | CC BY-SA 4.0 | [원본](https://commons.wikimedia.org/wiki/File:San_Juan_Parangaricutiro.jpg) |
-| 5 | 현재의 원뿔 | AlejandroLinaresGarcia | CC BY-SA 4.0 | [원본](https://commons.wikimedia.org/wiki/File:ViewParicutinFromAngahuan.JPG) |
-| 6 | 세기 조절 스위치 | Maury Markowitz | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Fluoroscope_operating_controls.jg.jpg) |
-| 7 | 당대 신발가게 광고엽서 | Boston Public Library | CC BY 2.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Scientific_Shoe_Fitters,_570_Bloomfield_Avenue,_Bloomfield,_N.J._(8425254936).jpg) |
+| 1 | 소용돌이에 붕괴된 강철 송전탑 | Western Area Power Administration (staff photo) | CC BY 2.0 | [원본](https://www.flickr.com/photos/86561000@N05/44199043421) |
+| 2 | 탑이 뽑혀 나가고 남은 밑동 | Western Area Power Administration (staff photo) | CC BY 2.0 | [원본](https://www.flickr.com/photos/86561000@N05/43293297115) |
+| 3 | 전환 전에는 떼지 말라는 경고 스티커 | Scheinwerfermann | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Dagen_H_Headlamp.jpg) |
+| 4 | 기울어진 H 알림 표지 | Wikimedia Commons contributor | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B6gertrafikm%C3%A4rke.jpg) |
+| 5 | 기름 호수에 갇힌 새(2008년 촬영) | Aljawad | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Mummified_Bird.jpg) |
+| 6 | 용암에 파묻힌 산후안 교회 | LBM1948 | CC BY-SA 4.0 | [원본](https://commons.wikimedia.org/wiki/File:San_Juan_Parangaricutiro.jpg) |
+| 7 | 현재의 원뿔 | AlejandroLinaresGarcia | CC BY-SA 4.0 | [원본](https://commons.wikimedia.org/wiki/File:ViewParicutinFromAngahuan.JPG) |
+| 8 | 세기 조절 스위치 | Maury Markowitz | CC BY-SA 3.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Fluoroscope_operating_controls.jg.jpg) |
+| 9 | 당대 신발가게 광고엽서 | Boston Public Library | CC BY 2.0 | [원본](https://commons.wikimedia.org/wiki/Special:FilePath/Scientific_Shoe_Fitters,_570_Bloomfield_Avenue,_Bloomfield,_N.J._(8425254936).jpg) |
 
 ## 표시 의무 없음 (CC0 · Public Domain) — 참고용
 
