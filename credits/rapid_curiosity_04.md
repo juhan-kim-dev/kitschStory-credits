@@ -1,5 +1,6 @@
 # [세상은 생각보다 훨씬 이상하게 돌아갑니다] 이미지·영상 출처 / Credits
 
+- 영상: https://youtu.be/3BQc8RbT7sI
 - 영상 slug: `rapid_curiosity_04`
 - 출처 플랫폼: Openverse (Flickr), Wikimedia Commons, 기타
 - 라이선스: CC BY 2.0 / CC BY-SA 3.0 / CC BY-SA 4.0 / CC0 / Public domain / Public domain (NASA) / Public domain (PD-CAGov) / Public domain (PD-Sweden-photo) / Public domain (PD-US-no notice) / Public domain (PD-USGov) / Public domain (PD-USGov-NOAA) / Public domain (PD-USGov-NPS) / Public domain (US patent) / Public domain (no known restrictions) / Public domain (독일 1929년 발표 Lichtbild)
