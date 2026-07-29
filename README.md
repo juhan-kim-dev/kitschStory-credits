@@ -28,6 +28,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 우리가 아는 세상은, 생각보다 훨씬 이상합니다 | [credits/rapid_curiosity_01.md](credits/rapid_curiosity_01.md) | 29건 (표시 의무 CC BY·BY-SA 18건) |
 | 이런 일이 실제로 있었다는 게, 아직도 잘 안 믿깁니다 | [credits/rapid_curiosity_02.md](credits/rapid_curiosity_02.md) | 27건 (표시 의무 CC BY·BY-SA 19건) |
 | 믿기 어렵겠지만, 전부 실제로 있었던 일입니다 | [credits/rapid_curiosity_03.md](credits/rapid_curiosity_03.md) | 47건 (표시 의무 CC BY 8건) |
+| 세상은 생각보다 훨씬 이상하게 돌아갑니다 | [credits/rapid_curiosity_04.md](credits/rapid_curiosity_04.md) | 44건 (표시 의무 CC BY·BY-SA 7건) |
 
 ## 팩트체크 근거·출처
 
