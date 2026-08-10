@@ -30,6 +30,12 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 믿기 어렵겠지만, 전부 실제로 있었던 일입니다 | [credits/rapid_curiosity_03.md](credits/rapid_curiosity_03.md) | 47건 (표시 의무 CC BY 8건) |
 | 세상은 생각보다 훨씬 이상하게 돌아갑니다 | [credits/rapid_curiosity_04.md](credits/rapid_curiosity_04.md) | 46건 (표시 의무 CC BY·BY-SA 9건) |
 | 사라진 것들이 돌아왔습니다 | [credits/rapid_curiosity_05.md](credits/rapid_curiosity_05.md) | 73건 (표시 의무 CC BY·BY-SA 41건) |
+| 말이 안 되는데, 전부 실제로 있었던 일입니다 | [credits/rapid_curiosity_06.md](credits/rapid_curiosity_06.md) | 53건 (표시 의무 CC BY·BY-SA 23건) |
+| 여객기 시제기를 관중 앞에서 두 번 뒤집었습니다 | [credits/rapid_curiosity_07.md](credits/rapid_curiosity_07.md) | 68건 (표시 의무 CC 18건) |
+| 태풍에 뱃머리 30미터가 잘려나간 순양함이, 스스로 항구까지 돌아왔습니다 | [credits/rapid_curiosity_08.md](credits/rapid_curiosity_08.md) | 72건 (표시 의무 CC BY·BY-SA) |
+| 기관사 없는 화물열차를 다른 기관차가 뒤에서 붙잡았습니다 | [credits/rapid_curiosity_09.md](credits/rapid_curiosity_09.md) | 76건 (표시 의무 CC 53건) |
+| 호수의 얼음판이 육지로 올라와 집 27채를 덮쳤습니다 | [credits/rapid_curiosity_10.md](credits/rapid_curiosity_10.md) | 69건 (표시 의무 29건) |
+| 학생이 불붙인 속옷을 올림픽 성화라며 들고 달리자, 경찰이 호위해 줬습니다 | [credits/rapid_curiosity_11.md](credits/rapid_curiosity_11.md) | 68장 (표시 의무 CC BY·BY-SA·FAL 38건) |
 
 ## 팩트체크 근거·출처
 
