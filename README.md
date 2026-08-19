@@ -36,6 +36,10 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 기관사 없는 화물열차를 다른 기관차가 뒤에서 붙잡았습니다 | [credits/rapid_curiosity_09.md](credits/rapid_curiosity_09.md) | 76건 (표시 의무 CC 53건) |
 | 호수의 얼음판이 육지로 올라와 집 27채를 덮쳤습니다 | [credits/rapid_curiosity_10.md](credits/rapid_curiosity_10.md) | 69건 (표시 의무 29건) |
 | 학생이 불붙인 속옷을 올림픽 성화라며 들고 달리자, 경찰이 호위해 줬습니다 | [credits/rapid_curiosity_11.md](credits/rapid_curiosity_11.md) | 68장 (표시 의무 CC BY·BY-SA·FAL 38건) |
+| 적진으로 달려갈 로켓 바퀴가 방향을 틀어, 카메라 앞에서 쓰러졌습니다 | [credits/rapid_curiosity_12.md](credits/rapid_curiosity_12.md) | 92건 (표시 의무 CC BY·BY-SA 41건) |
+| 배 두 척이 부딪히자, 잠들어 있던 소녀가 상대편 배의 뱃머리에서 발견됐습니다 | [credits/rapid_curiosity_13.md](credits/rapid_curiosity_13.md) | 74건 (표시 의무 CC BY·BY-SA 39건) |
+| 현금수송차를 턴 남자는 똑같은 옷의 사람들을 불러 모은 뒤, 튜브를 타고 개울로 달아났습니다 | [credits/rapid_curiosity_14.md](credits/rapid_curiosity_14.md) | 59건 (표시 의무 CC BY·BY-SA 44건) |
+| 비행기를 몰래 몰고 나와 뉴욕 거리에 내린 남자는, 사람들이 믿지 않자 2년 뒤 한 번 더 내렸습니다 | [credits/rapid_curiosity_15.md](credits/rapid_curiosity_15.md) | 68건 (표시 의무 CC BY·BY-SA 24건) |
 
 ## 팩트체크 근거·출처
 
