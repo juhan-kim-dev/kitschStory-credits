@@ -42,6 +42,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 비행기를 몰래 몰고 나와 뉴욕 거리에 내린 남자는, 사람들이 믿지 않자 2년 뒤 한 번 더 내렸습니다 | [credits/rapid_curiosity_15.md](credits/rapid_curiosity_15.md) | 68건 (표시 의무 CC BY·BY-SA 24건) |
 | 의사 자격이 없던 군의관이 세 부상자를 수술했고, 세 사람 모두 살아남았습니다 | [credits/rapid_curiosity_16.md](credits/rapid_curiosity_16.md) | 88건 (표시 의무 CC BY·BY-SA 포함) |
 | 학교에 기증된 낡은 피아노의 건반을 들어내자, 꾸러미에 싸인 금화 913개가 나왔습니다 | [credits/rapid_curiosity_17.md](credits/rapid_curiosity_17.md) | 75건 (표시 의무 48건) |
+| 불가능해 보였지만, 실제로 그렇게 됐습니다 (20편) | [credits/rapid_curiosity_20.md](credits/rapid_curiosity_20.md) | 101건 (표시 의무 CC BY·BY-SA 37건) |
 | 제자리를 벗어난 것들이, 뜻밖의 방식으로 작동했습니다 (19편) | [credits/rapid_curiosity_19.md](credits/rapid_curiosity_19.md) | 99건 (표시 의무 CC BY·BY-SA 49건) |
 | 말도 안 되는 방법이, 마지막에는 정답이 됐습니다 (18편) | [credits/rapid_curiosity_18.md](credits/rapid_curiosity_18.md) | 93건 (표시 의무 CC BY·BY-SA 27건) |
 
