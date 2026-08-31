@@ -44,7 +44,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 학교에 기증된 낡은 피아노의 건반을 들어내자, 꾸러미에 싸인 금화 913개가 나왔습니다 | [credits/rapid_curiosity_17.md](credits/rapid_curiosity_17.md) | 75건 (표시 의무 48건) |
 | 실제로 있었던 사건들 1~5편 몰아보기 | [credits/rc_compilation_01.md](credits/rc_compilation_01.md) | 222건 (표시 의무 CC BY·BY-SA 95건, 1~5편 재편집) |
 | 실제로 있었던 사건들 6~10편 몰아보기 | [credits/rc_compilation_02.md](credits/rc_compilation_02.md) | 338건 (표시 의무 CC BY·BY-SA 140건, 6~10편 재편집) |
-| 말이 안 되는 방법이, 실제로 문제를 해결했습니다 (22편) | [credits/rapid_curiosity_22.md](credits/rapid_curiosity_22.md) | 143건 (표시 의무 CC BY·BY-SA 87건) |
+| 하나같이 엉뚱한 물건이었는데, 결국 통했습니다 (22편) | [credits/rapid_curiosity_22.md](credits/rapid_curiosity_22.md) | 143건 (표시 의무 CC BY·BY-SA 87건) |
 | 이상한 방법에는, 전부 이유가 있었습니다 (21편) | [credits/rapid_curiosity_21.md](credits/rapid_curiosity_21.md) | 136건 (표시 의무 CC BY·BY-SA 75건) |
 | 불가능해 보였지만, 실제로 그렇게 됐습니다 (20편) | [credits/rapid_curiosity_20.md](credits/rapid_curiosity_20.md) | 101건 (표시 의무 CC BY·BY-SA 37건) |
 | 제자리를 벗어난 것들이, 뜻밖의 방식으로 작동했습니다 (19편) | [credits/rapid_curiosity_19.md](credits/rapid_curiosity_19.md) | 99건 (표시 의무 CC BY·BY-SA 49건) |
