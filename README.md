@@ -45,6 +45,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 실제로 있었던 사건들 1~5편 몰아보기 | [credits/rc_compilation_01.md](credits/rc_compilation_01.md) | 222건 (표시 의무 CC BY·BY-SA 95건, 1~5편 재편집) |
 | 실제로 있었던 사건들 6~10편 몰아보기 | [credits/rc_compilation_02.md](credits/rc_compilation_02.md) | 338건 (표시 의무 CC BY·BY-SA 140건, 6~10편 재편집) |
 | 하나같이 엉뚱한 물건이었는데, 결국 통했습니다 (22편) | [credits/rapid_curiosity_22.md](credits/rapid_curiosity_22.md) | 143건 (표시 의무 CC BY·BY-SA 87건) |
+| 설명을 듣기 전에는 이 장면들이 믿기지 않습니다 (26편) | [credits/rapid_curiosity_26.md](credits/rapid_curiosity_26.md) | 125건 (표시 의무 CC BY·BY-SA 47건) |
 | 믿기 어려운 장면들이, 실제 기록으로 남았습니다 (23편) | [credits/rapid_curiosity_23.md](credits/rapid_curiosity_23.md) | 125건 (표시 의무 CC BY·BY-SA 77건) |
 | 달팽이도 소도 달걀도, 있을 리 없는 자리에 있었습니다 (25편) | [credits/rapid_curiosity_25.md](credits/rapid_curiosity_25.md) | 93건 (표시 의무 CC BY·BY-SA 43건) |
 | 이상하게 들리지만, 실제로 전부 일어났습니다 (24편) | [credits/rapid_curiosity_24.md](credits/rapid_curiosity_24.md) | 64건 (표시 의무 CC BY·BY-SA 22건) |
