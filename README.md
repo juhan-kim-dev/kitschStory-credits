@@ -75,6 +75,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 세상은 생각보다 훨씬 이상하게 돌아갑니다 | [facts/rapid_curiosity_04.md](facts/rapid_curiosity_04.md) (10사건 1차 출처) |
 | 사라진 것들이 돌아왔습니다 | [facts/rapid_curiosity_05.md](facts/rapid_curiosity_05.md) (9사건 1차 출처) |
 | 장난처럼 보이지만, 사람들은 전부 진지했습니다 (29편) | [facts/rapid_curiosity_29.md](facts/rapid_curiosity_29.md) (10사건 1차 출처) |
+| 진짜 있었던 일이, 지어낸 이야기보다 황당합니다 (30편) | [facts/rapid_curiosity_30.md](facts/rapid_curiosity_30.md) (10사건 1차 출처) |
 
 ## 출처 플랫폼
 
