@@ -57,6 +57,11 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 세상에는 이런 일도 벌어졌습니다 (28편) | [credits/rapid_curiosity_28.md](credits/rapid_curiosity_28.md) | 108건 (표시 의무 CC BY·BY-SA 44건) |
 | 장난처럼 보이지만, 사람들은 전부 진지했습니다 (29편) | [credits/rapid_curiosity_29.md](credits/rapid_curiosity_29.md) | 95건 (표시 의무 CC BY·BY-SA 44건) |
 | 진짜 있었던 일이, 지어낸 이야기보다 황당합니다 (30편) | [credits/rapid_curiosity_30.md](credits/rapid_curiosity_30.md) | 75건 (표시 의무 CC BY·BY-SA 31건) |
+| 한 번 벌어진 일이, 세상을 예상 밖으로 바꿔 놓았습니다 (31편) | [credits/rapid_curiosity_31.md](credits/rapid_curiosity_31.md) | 53건 (표시 의무 CC BY·BY-SA 28건) |
+| 이런 일이 벌어질 자리가 아니었습니다 (32편) | [credits/rapid_curiosity_32.md](credits/rapid_curiosity_32.md) | 56건 (표시 의무 CC BY·BY-SA 16건) |
+| 이 방법밖에 없다고 생각한 사람들이 있었습니다 (33편) | [credits/rapid_curiosity_33.md](credits/rapid_curiosity_33.md) | 80건 (표시 의무 CC BY·BY-SA 31건) |
+| 진짜 이렇게까지 하는 줄은 몰랐습니다 (34편) | [credits/rapid_curiosity_34.md](credits/rapid_curiosity_34.md) | 85건 (표시 의무 CC BY·BY-SA 41건) |
+| 어떻게 된 일인지 알고 나면 더 황당합니다 (35편) | [credits/rapid_curiosity_35.md](credits/rapid_curiosity_35.md) | 66건 (표시 의무 CC BY·BY-SA 22건) |
 | 실제로 있었던 사건들 11~15편 몰아보기 | [credits/rc_compilation_03.md](credits/rc_compilation_03.md) | 361건 (표시 의무 CC BY·BY-SA 186건, 11~15편 재편집) |
 | 실제로 있었던 사건들 16~20편 몰아보기 | [credits/rc_compilation_04.md](credits/rc_compilation_04.md) | 456건 (표시 의무 CC BY·BY-SA 193건, 16~20편 재편집) |
 | 실제로 있었던 사건들 21~25편 몰아보기 | [credits/rc_compilation_05.md](credits/rc_compilation_05.md) | 561건 (표시 의무 CC BY·BY-SA 304건, 21~25편 재편집) |
@@ -78,6 +83,11 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 사라진 것들이 돌아왔습니다 | [facts/rapid_curiosity_05.md](facts/rapid_curiosity_05.md) (9사건 1차 출처) |
 | 장난처럼 보이지만, 사람들은 전부 진지했습니다 (29편) | [facts/rapid_curiosity_29.md](facts/rapid_curiosity_29.md) (10사건 1차 출처) |
 | 진짜 있었던 일이, 지어낸 이야기보다 황당합니다 (30편) | [facts/rapid_curiosity_30.md](facts/rapid_curiosity_30.md) (10사건 1차 출처) |
+| 한 번 벌어진 일이, 세상을 예상 밖으로 바꿔 놓았습니다 (31편) | [facts/rapid_curiosity_31.md](facts/rapid_curiosity_31.md) (10사건 1차 출처) |
+| 이런 일이 벌어질 자리가 아니었습니다 (32편) | [facts/rapid_curiosity_32.md](facts/rapid_curiosity_32.md) (10사건 1차 출처) |
+| 이 방법밖에 없다고 생각한 사람들이 있었습니다 (33편) | [facts/rapid_curiosity_33.md](facts/rapid_curiosity_33.md) (10사건 1차 출처) |
+| 진짜 이렇게까지 하는 줄은 몰랐습니다 (34편) | [facts/rapid_curiosity_34.md](facts/rapid_curiosity_34.md) (10사건 1차 출처) |
+| 어떻게 된 일인지 알고 나면 더 황당합니다 (35편) | [facts/rapid_curiosity_35.md](facts/rapid_curiosity_35.md) (10사건 1차 출처) |
 
 ## 출처 플랫폼
 
