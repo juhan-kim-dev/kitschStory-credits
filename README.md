@@ -69,6 +69,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 실제로 있었던 사건들 21~25편 몰아보기 | [credits/rc_compilation_05.md](credits/rc_compilation_05.md) | 561건 (표시 의무 CC BY·BY-SA 304건, 21~25편 재편집) |
 | 실제로 있었던 사건들 26~30편 몰아보기 | [credits/rc_compilation_06.md](credits/rc_compilation_06.md) | 522건 (표시 의무 CC BY·BY-SA 195건, 26~30편 재편집) |
 | 수면용 모아보기 1권 (1~30편) | [credits/rc_sleep_01.md](credits/rc_sleep_01.md) | 2,460건 (표시 의무 CC BY·BY-SA 1,113건, 1~30편 재편집 · 사건 목록 [lists/rc_sleep_01.md](lists/rc_sleep_01.md)) |
+| 실제로 있었던 사건들 31~35편 몰아보기 | [credits/rc_compilation_07.md](credits/rc_compilation_07.md) | 340건 (표시 의무 CC BY·BY-SA 138건, 31~35편 재편집) |
 
 ## 팩트체크 근거·출처
 
