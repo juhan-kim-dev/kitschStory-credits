@@ -66,6 +66,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 끝까지 예상대로 흘러가지 않은 사건들 (37편) | [credits/rapid_curiosity_37.md](credits/rapid_curiosity_37.md) | 93건 (표시 의무 CC BY·BY-SA 48건) |
 | 끝이 어떻게 될지는 아무도 장담하지 못했습니다 (38편) | [credits/rapid_curiosity_38.md](credits/rapid_curiosity_38.md) | 78건 (표시 의무 CC BY·BY-SA·정부 라이선스 46건) |
 | 세상에는 이런 장면도 실제로 있었습니다 (39편) | [credits/rapid_curiosity_39.md](credits/rapid_curiosity_39.md) | 37건 (표시 의무 CC BY·BY-SA·정부 라이선스 10건) |
+| 당연한 순서가, 여기서는 거꾸로였습니다 (40편) | [credits/rapid_curiosity_40.md](credits/rapid_curiosity_40.md) | 29건 (표시 의무 CC BY·BY-SA·정부 라이선스 6건) |
 | 실제로 있었던 사건들 11~15편 몰아보기 | [credits/rc_compilation_03.md](credits/rc_compilation_03.md) | 361건 (표시 의무 CC BY·BY-SA 186건, 11~15편 재편집) |
 | 실제로 있었던 사건들 16~20편 몰아보기 | [credits/rc_compilation_04.md](credits/rc_compilation_04.md) | 456건 (표시 의무 CC BY·BY-SA 193건, 16~20편 재편집) |
 | 실제로 있었던 사건들 21~25편 몰아보기 | [credits/rc_compilation_05.md](credits/rc_compilation_05.md) | 561건 (표시 의무 CC BY·BY-SA 304건, 21~25편 재편집) |
@@ -97,6 +98,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 끝까지 예상대로 흘러가지 않은 사건들 (37편) | [facts/rapid_curiosity_37.md](facts/rapid_curiosity_37.md) (10사건 1차 출처) |
 | 끝이 어떻게 될지는 아무도 장담하지 못했습니다 (38편) | [facts/rapid_curiosity_38.md](facts/rapid_curiosity_38.md) (10사건 1차 출처) |
 | 세상에는 이런 장면도 실제로 있었습니다 (39편) | [facts/rapid_curiosity_39.md](facts/rapid_curiosity_39.md) (10사건 1차 출처) |
+| 당연한 순서가, 여기서는 거꾸로였습니다 (40편) | [facts/rapid_curiosity_40.md](facts/rapid_curiosity_40.md) (10사건 1차 출처) |
 
 ## 출처 플랫폼
 
