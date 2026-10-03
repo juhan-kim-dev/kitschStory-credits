@@ -77,6 +77,8 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 실제로 있었던 사건들 26~30편 몰아보기 | [credits/rc_compilation_06.md](credits/rc_compilation_06.md) | 522건 (표시 의무 CC BY·BY-SA 195건, 26~30편 재편집) |
 | 수면용 모아보기 1권 (1~30편) | [credits/rc_sleep_01.md](credits/rc_sleep_01.md) | 2,460건 (표시 의무 CC BY·BY-SA 1,113건, 1~30편 재편집 · 사건 목록 [lists/rc_sleep_01.md](lists/rc_sleep_01.md)) |
 | 실제로 있었던 사건들 31~35편 몰아보기 | [credits/rc_compilation_07.md](credits/rc_compilation_07.md) | 340건 (표시 의무 CC BY·BY-SA 138건, 31~35편 재편집) |
+| 자연 주제별 모아보기 1편 (하늘과 땅이, 사람 없이 벌인 일입니다) | [credits/rc_theme_01.md](credits/rc_theme_01.md) | 1·2·4·27편에서 사건 10개 재편집 (원본 편 크레딧 링크) |
+| 동물 주제별 모아보기 1편 (사람이 못 한 일을, 동물이 했습니다) | [credits/rc_theme_02.md](credits/rc_theme_02.md) | 4·11·12·16·18·23·25·26·28·34편에서 사건 10개 재편집 (원본 편 크레딧 링크) |
 
 ## 팩트체크 근거·출처
 
