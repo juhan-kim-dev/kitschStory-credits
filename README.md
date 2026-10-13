@@ -72,6 +72,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 처음 계획과는 전혀 다른 곳에 닿았습니다 (43편) | [credits/rapid_curiosity_43.md](credits/rapid_curiosity_43.md) | 44건 (표시 의무 CC BY·BY-SA·정부 라이선스 16건) |
 | 익숙한 세상에, 낯선 일이 끼어들었습니다 (44편) | [credits/rapid_curiosity_44.md](credits/rapid_curiosity_44.md) | 12건 (표시 의무 CC BY 3건) |
 | 다들 진지했는데, 장면은 우스웠습니다 (45편) | [credits/rapid_curiosity_45.md](credits/rapid_curiosity_45.md) | 22건 (표시 의무 CC BY 4건) |
+| 말도 안 되는 방법이었는데, 진짜로 통했습니다 (46편) | [credits/rapid_curiosity_46.md](credits/rapid_curiosity_46.md) | 30건 (표시 의무 0건 · 출처 표기 자료 13건) |
 | AI로 되살린 조선 옛 기록 속 이상한 동물들, 그 정체를 추적해 봤습니다 | [credits/rc_dogam_01.md](credits/rc_dogam_01.md) | 실사 9건 (표시 의무 CC BY·BY-SA 4건) · 옛 기록 원문 [facts/rc_dogam_01.md](facts/rc_dogam_01.md) |
 | 실제로 있었던 사건들 11~15편 몰아보기 | [credits/rc_compilation_03.md](credits/rc_compilation_03.md) | 361건 (표시 의무 CC BY·BY-SA 186건, 11~15편 재편집) |
 | 실제로 있었던 사건들 16~20편 몰아보기 | [credits/rc_compilation_04.md](credits/rc_compilation_04.md) | 456건 (표시 의무 CC BY·BY-SA 193건, 16~20편 재편집) |
@@ -113,6 +114,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 처음 계획과는 전혀 다른 곳에 닿았습니다 (43편) | [facts/rapid_curiosity_43.md](facts/rapid_curiosity_43.md) (10사건 1차 출처) |
 | 익숙한 세상에, 낯선 일이 끼어들었습니다 (44편) | [facts/rapid_curiosity_44.md](facts/rapid_curiosity_44.md) (10사건 1차 출처) |
 | 다들 진지했는데, 장면은 우스웠습니다 (45편) | [facts/rapid_curiosity_45.md](facts/rapid_curiosity_45.md) (10사건 1차 출처) |
+| 말도 안 되는 방법이었는데, 진짜로 통했습니다 (46편) | [facts/rapid_curiosity_46.md](facts/rapid_curiosity_46.md) (10사건 1차 출처) |
 
 ## 출처 플랫폼
 
