@@ -76,6 +76,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 한 줄로 읽었을 때가 제일 믿기 어렵습니다 (47편) | [credits/rapid_curiosity_47.md](credits/rapid_curiosity_47.md) | 25건 (표시 의무 10건 · 출처 표기 자료 4건) |
 | 박물관에 남은 옛 의료 도구 10개, 무엇에 쓰던 물건일까요 (인간이 만든 기괴한 도구들 의료 편) | [credits/rc_tools_01.md](credits/rc_tools_01.md) | 실물 사진 11건 (표시 의무 CC BY 9건) |
 | AI로 되살린 조선 옛 기록 속 이상한 동물들, 그 정체를 추적해 봤습니다 | [credits/rc_dogam_01.md](credits/rc_dogam_01.md) | 실사 9건 (표시 의무 CC BY·BY-SA 4건) · 옛 기록 원문 [facts/rc_dogam_01.md](facts/rc_dogam_01.md) |
+| AI로 되살린 옛 기록 속 이상한 동물들 4, 그 정체를 추적해 봤습니다 | [credits/rc_dogam_04.md](credits/rc_dogam_04.md) | 실사 11건 (표시 의무 CC BY-SA 9건) · 옛 기록 원문 [facts/rc_dogam_04.md](facts/rc_dogam_04.md) |
 | 실제로 있었던 사건들 11~15편 몰아보기 | [credits/rc_compilation_03.md](credits/rc_compilation_03.md) | 361건 (표시 의무 CC BY·BY-SA 186건, 11~15편 재편집) |
 | 실제로 있었던 사건들 16~20편 몰아보기 | [credits/rc_compilation_04.md](credits/rc_compilation_04.md) | 456건 (표시 의무 CC BY·BY-SA 193건, 16~20편 재편집) |
 | 실제로 있었던 사건들 21~25편 몰아보기 | [credits/rc_compilation_05.md](credits/rc_compilation_05.md) | 561건 (표시 의무 CC BY·BY-SA 304건, 21~25편 재편집) |
