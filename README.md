@@ -82,6 +82,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | AI로 되살린 옛 기록 속 이상한 동물들 6, 그 정체를 추적해 봤습니다 | [credits/rc_dogam_06.md](credits/rc_dogam_06.md) | 실사 12건 (표시 의무 CC BY·CC BY-SA 9건) · 옛 기록 원문 [facts/rc_dogam_06.md](facts/rc_dogam_06.md) |
 | AI로 되살린 옛 기록 속 이상한 동물들 7, 그 정체를 추적해 봤습니다 | [credits/rc_dogam_07.md](credits/rc_dogam_07.md) | 실사·옛 그림 13건 (표시 의무 CC BY·CC BY-SA 10건) · 옛 기록 원문 [facts/rc_dogam_07.md](facts/rc_dogam_07.md) |
 | AI로 되살린 옛 기록 속 이상한 동물들 8, 그 정체를 추적해 봤습니다 | [credits/rc_dogam_08.md](credits/rc_dogam_08.md) | 실사·옛 그림 17건 (표시 의무 CC BY·CC BY-SA 13건) · 옛 기록 원문 [facts/rc_dogam_08.md](facts/rc_dogam_08.md) |
+| AI로 되살린 옛 기록 속 이상한 동물 50가지, 그 정체를 추적해 봤습니다｜1~5편 몰아보기 | [credits/rc_dogam_compilation_01.md](credits/rc_dogam_compilation_01.md) | 실사 54건 (표시 의무 CC BY·BY-SA 42건, 1~5편 재편집) · 옛 기록 원문은 각 편 facts/rc_dogam_01~05 |
 | 동굴에 갇힌 남자를 구하는 동안, 밖에서는 핫도그를 팔았습니다 (그날 영상은 남지 않았습니다 1편) | [credits/disaster_ep01.md](credits/disaster_ep01.md) | 실사·당시 그림 21건 (표시 의무 CC BY-SA 1건) · 사고 10개 원문 출처 [facts/disaster_ep01.md](facts/disaster_ep01.md) |
 | 실제로 있었던 사건들 11~15편 몰아보기 | [credits/rc_compilation_03.md](credits/rc_compilation_03.md) | 361건 (표시 의무 CC BY·BY-SA 186건, 11~15편 재편집) |
 | 실제로 있었던 사건들 16~20편 몰아보기 | [credits/rc_compilation_04.md](credits/rc_compilation_04.md) | 456건 (표시 의무 CC BY·BY-SA 193건, 16~20편 재편집) |
