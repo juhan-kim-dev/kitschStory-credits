@@ -87,6 +87,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 7개 나라의 저승을 그려보았습니다 | [credits/world_hells_01.md](credits/world_hells_01.md) | 실사·옛 사본 16건 (표시 의무 CC BY·CC BY-SA 5건) · 옛 기록 원문 [facts/world_hells_01.md](facts/world_hells_01.md) |
 | 잘못 들어온 돈을 쓴 사람들은 어떻게 됐을까요 | [credits/rc_special_01_wrongmoney.md](credits/rc_special_01_wrongmoney.md) | 실사 32건 (표시 의무 CC BY·CC BY-SA 31건) |
 | 출근을 안 했는데 월급이 나온 사람들은 어떻게 됐을까요 | [credits/rc_special_02_noshow.md](credits/rc_special_02_noshow.md) | 실사 17건 (표시 의무 CC BY·CC BY-SA 14건) |
+| 기네스가 더는 받아 주지 않는 기록에는 어떤 것들이 있을까요 | [credits/rc_special_03_guinness.md](credits/rc_special_03_guinness.md) | 실사 22건 (표시 의무 CC BY·CC BY-SA 9건 · CC0·PD 9건 · 출처 표기 자료 4건) |
 | 실제로 있었던 사건들 11~15편 몰아보기 | [credits/rc_compilation_03.md](credits/rc_compilation_03.md) | 361건 (표시 의무 CC BY·BY-SA 186건, 11~15편 재편집) |
 | 실제로 있었던 사건들 16~20편 몰아보기 | [credits/rc_compilation_04.md](credits/rc_compilation_04.md) | 456건 (표시 의무 CC BY·BY-SA 193건, 16~20편 재편집) |
 | 실제로 있었던 사건들 21~25편 몰아보기 | [credits/rc_compilation_05.md](credits/rc_compilation_05.md) | 561건 (표시 의무 CC BY·BY-SA 304건, 21~25편 재편집) |
@@ -134,6 +135,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 평범해 보이는 옛 물건 10개, 무엇이 숨어 있을까요 (인간이 만든 기괴한 도구들 비밀 편) | [facts/rc_tools_02.md](facts/rc_tools_02.md) (물건 10가지 1차 출처 · 원문 카드 번역) |
 | 잘못 들어온 돈을 쓴 사람들은 어떻게 됐을까요 | [facts/rc_special_01_wrongmoney.md](facts/rc_special_01_wrongmoney.md) (12사건 출처 · 쓰지 않은 대목) |
 | 출근을 안 했는데 월급이 나온 사람들은 어떻게 됐을까요 | [facts/rc_special_02_noshow.md](facts/rc_special_02_noshow.md) (12사건 출처 · 쓰지 않은 대목) |
+| 기네스가 더는 받아 주지 않는 기록에는 어떤 것들이 있을까요 | [facts/rc_special_03_guinness.md](facts/rc_special_03_guinness.md) (12사건 출처 · 쓰지 않은 대목) |
 
 ## 출처 플랫폼
 
