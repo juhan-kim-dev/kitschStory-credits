@@ -88,6 +88,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 잘못 들어온 돈을 쓴 사람들은 어떻게 됐을까요 | [credits/rc_special_01_wrongmoney.md](credits/rc_special_01_wrongmoney.md) | 실사 32건 (표시 의무 CC BY·CC BY-SA 31건) |
 | 출근을 안 했는데 월급이 나온 사람들은 어떻게 됐을까요 | [credits/rc_special_02_noshow.md](credits/rc_special_02_noshow.md) | 실사 17건 (표시 의무 CC BY·CC BY-SA 14건) |
 | 기네스가 더는 받아 주지 않는 기록에는 어떤 것들이 있을까요 | [credits/rc_special_03_guinness.md](credits/rc_special_03_guinness.md) | 실사 22건 (표시 의무 CC BY·CC BY-SA 9건 · CC0·PD 9건 · 출처 표기 자료 4건) |
+| 후기를 썼다가 고소당했습니다 | [credits/rc_special_05_review.md](credits/rc_special_05_review.md) | 실사 31건 (표시 의무 CC BY·CC BY-SA 24건 · CC0·PD 7건) |
 | 실제로 있었던 사건들 11~15편 몰아보기 | [credits/rc_compilation_03.md](credits/rc_compilation_03.md) | 361건 (표시 의무 CC BY·BY-SA 186건, 11~15편 재편집) |
 | 실제로 있었던 사건들 16~20편 몰아보기 | [credits/rc_compilation_04.md](credits/rc_compilation_04.md) | 456건 (표시 의무 CC BY·BY-SA 193건, 16~20편 재편집) |
 | 실제로 있었던 사건들 21~25편 몰아보기 | [credits/rc_compilation_05.md](credits/rc_compilation_05.md) | 561건 (표시 의무 CC BY·BY-SA 304건, 21~25편 재편집) |
@@ -136,6 +137,7 @@ CC BY / CC BY-SA 자료는 각 라이선스 조건에 따라 저작자·출처·
 | 잘못 들어온 돈을 쓴 사람들은 어떻게 됐을까요 | [facts/rc_special_01_wrongmoney.md](facts/rc_special_01_wrongmoney.md) (12사건 출처 · 쓰지 않은 대목) |
 | 출근을 안 했는데 월급이 나온 사람들은 어떻게 됐을까요 | [facts/rc_special_02_noshow.md](facts/rc_special_02_noshow.md) (12사건 출처 · 쓰지 않은 대목) |
 | 기네스가 더는 받아 주지 않는 기록에는 어떤 것들이 있을까요 | [facts/rc_special_03_guinness.md](facts/rc_special_03_guinness.md) (12사건 출처 · 쓰지 않은 대목) |
+| 후기를 썼다가 고소당했습니다 | [facts/rc_special_05_review.md](facts/rc_special_05_review.md) (12사건 출처 · 쓰지 않은 대목) |
 
 ## 출처 플랫폼
 
